@@ -1,0 +1,26 @@
+/* Inserta tu codigo aqui */
+.principal{
+	background-image: url("../img/dance_1.jpg");
+	height: 480px;
+	width: 100%;
+	color: white;
+}
+
+.content-description{
+	width: 300px;
+	padding: 100px;
+}
+ 
+.content-description h1{
+	font-size: 68px;
+}
+.content-description p{
+	width: 200px;
+	font-size: 14px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.imagen-decoration-1{
+	width: 200px;
+	height: auto;
+}

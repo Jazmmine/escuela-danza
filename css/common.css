@@ -1,0 +1,54 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+/*
+CABECERA DE LAS PAGINAS
+*/
+header{
+	background-color: white;
+}
+header .titulo{
+	padding: 23px;
+}
+header h1{
+	color: #020e1c;
+	text-align: center;
+	font-size: 32px;
+}
+header nav{
+	text-align: center;
+	padding: 23px;
+}
+header nav a{
+	text-decoration: none;
+	margin: 20px;
+	color: #020e1c;
+	font-size: 20px;
+}
+/*
+PIE DE PAGINA 
+*/
+footer{
+	background-color: #1a2952;
+	height: 30px;
+	width: 100%;
+	color: white;
+	float: right;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.btn{
+    display: inline-block;
+    padding: 10px 35px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    -ms-touch-action: manipulation;
+    cursor: pointer;
+    border: 1px solid transparent;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #020e1c;
+    border-color: #020e1c;
+}
+
