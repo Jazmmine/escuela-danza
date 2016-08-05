@@ -35,7 +35,9 @@ footer{
     padding-top: 20px;
     padding-left: 20px;
 }
-
+/*
+BOTONES
+*/
 .btn{
     display: inline-block;
     padding: 10px 35px;
@@ -52,3 +54,26 @@ footer{
     border-color: #020e1c;
 }
 
+.btn-secondary {
+    color: #fff;
+    background-color: #192951;
+    border-color: #192951;
+    border-radius: 5px;
+    position: relative;
+    bottom: 50px;
+	padding: 20px 84px;
+}
+
+.btn-third {
+	color: #fff;
+    background-color: #192951;
+    border-color: #192951;
+    border-radius: 5px;
+    position: relative;
+    bottom: 50px;
+    padding: 29px 201px;
+    opacity: inherit;
+    position: relative;
+    margin-top: -2.5%;
+    margin-left: 31%;
+}
