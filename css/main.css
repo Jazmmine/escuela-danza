@@ -11,6 +11,11 @@ body{
 .color-gray{
 	color: #D8D8D8;
 }
+.color-white{
+	color: white;
+	margin-top: 20px;
+	font-size: 30px;
+}
 
 .btn{
 	margin: 0 20px;
@@ -27,6 +32,9 @@ body{
 	background-color: #192951;
 	border-radius: 3px;	
 }
+.btn-enviar{
+	margin: 0;
+}
 
 .relativo{
 	position: relative;
@@ -39,6 +47,10 @@ body{
 }
 .tamanio-70{
 	font-size: 70px;
+}
+.tamanio-50{
+	font-size: 50px;
+	margin-left: 82px;
 }
 .left{
 	padding-left: 0;
@@ -81,4 +93,54 @@ body{
 
 .btn-clases{
 	    margin-bottom: 100px;
+}
+
+.content-danza{
+	font-size: 50px;
+	margin-bottom: 112px;
+}
+
+#ubicacion-bg{
+	background-color: #192951;
+}
+.box-ubicacion{
+	padding-top: 50px;
+}
+
+.map{
+	margin-top: 22px;
+}
+
+.bg-white{
+	background-color: white;
+}
+
+label {
+display:block;
+margin-top:20px;
+letter-spacing:1px;
+}
+.formulario {
+display:block;
+margin:0 auto;
+width:510px;
+color: #666666;
+}
+form {
+margin:0 auto;
+width:400px;
+}
+input, textarea {
+width:380px;
+height:27px;
+background:white;
+border:2px solid #f6f6f6;
+padding:10px;
+margin-top:5px;
+font-size: 16px;
+color:#000;
+}
+textarea {
+height:150px;
+margin-bottom: 20px;
 }
