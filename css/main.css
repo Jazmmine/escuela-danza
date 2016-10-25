@@ -7,3 +7,37 @@ body{
 	text-align: center;
 	padding: 20px;
 }
+
+.color-gray{
+	color: #D8D8D8;
+}
+
+.btn{
+	margin: 0 20px;
+	padding: 10px 20px;
+	text-decoration: none;
+	background-color: #080C12;
+	border-radius: 3px;
+}
+
+.relativo{
+	position: relative;
+}
+
+.absoluto{
+    position: absolute;
+    top: 16%;
+    left: 5%;
+}
+.tamanio-30{
+	font-size: 60px;
+}
+.left{
+	padding-left: 0;
+}
+.content-description{
+    width: 200px;
+    font-size: 14px;
+    padding-top: 25px;
+    padding-bottom: 25px;	
+}
