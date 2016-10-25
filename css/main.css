@@ -20,17 +20,25 @@ body{
 	border-radius: 3px;
 }
 
+.btn-extras{
+	margin: 0 20px;
+	padding: 20px 20px;
+	text-decoration: none;
+	background-color: #192951;
+	border-radius: 3px;	
+}
+
 .relativo{
 	position: relative;
 }
 
 .absoluto{
     position: absolute;
-    top: 16%;
+    top: 24%;
     left: 5%;
 }
-.tamanio-30{
-	font-size: 60px;
+.tamanio-70{
+	font-size: 70px;
 }
 .left{
 	padding-left: 0;
@@ -40,4 +48,37 @@ body{
     font-size: 14px;
     padding-top: 25px;
     padding-bottom: 25px;	
+}
+.responsive-imagen{
+  	max-width: 100%;
+ 	height: auto;	 
+}
+.imagen-decoration{
+	height: 14vh;
+	width: 14vw;
+}
+.content-information{
+    font-size: 29px;
+	margin-top: 100px;	
+}
+.profesores-imagen{
+	height: 50vh;
+}
+.center-block{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.absoluto-btn{
+	position: absolute;
+	top: 0;
+}
+
+.relativo-btn{
+	position: relative;
+    bottom: 83px;
+}
+
+.btn-clases{
+	    margin-bottom: 100px;
 }
